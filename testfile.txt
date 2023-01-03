@@ -1,0 +1,1 @@
+python reads like executable pseudocode
