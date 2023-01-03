@@ -1,1 +1,1 @@
-python reads like executable pseudocode
+Python has been one of the world's most popular programming languages for a long time, and for good reason. Due to its relatively straightforward syntax, it's one of the easiest languages to learn, and it's so remarkably scalable and general-purpose that it's used in a huge array of fields, from web development to machine learning. It remains one of the best programming languages for entrepreneurs to learn because of this general-use nature.
